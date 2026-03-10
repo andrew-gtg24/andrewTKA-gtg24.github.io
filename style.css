@@ -1,0 +1,126 @@
+body{
+    margin:0;
+    font-family: 'Exile';font-size: 22px;
+}
+header img{
+    height: 100px;
+    justify-content: right;
+}
+nav a{
+    text-decoration: none;
+    color: #4c7e36;
+    font-size: 25px;
+    padding: 5px 15px;
+    font-family: 'Bagel Fat One';font-size: 30px; ;
+}
+header{
+    text-align: center;
+    box-shadow: 0px 0px 5px;
+    background-color: #d1f748;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;  
+}
+nav{
+    padding: 10px;
+    margin: 20px;
+    font-size: 2px;
+}
+nav a:hover{
+    color:#132003 ;
+}
+.home{
+    height: 800px;
+    padding-top: 100px;
+    size: 100px;
+
+}
+.deskripsiHome{
+    width: 40%;
+    margin-left: 50px;
+    
+    }
+     
+     
+section.home{
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image:url("Background\ poto.png");
+}
+h1.home{
+    font-size: 60px;
+
+}
+.deskripsiHome{
+    font-size: 20px;
+}
+h3{
+      color: #4c6e14;
+       font-family: 'Bayon';font-size: 42px;
+       margin-top: 0px;
+       margin-bottom: 0px;
+}
+h1{
+      color: #55832b;
+      font-family: 'Bayon';font-size: 60px;
+      margin-bottom: 2px;
+}
+p{
+        color: #a4c76b;
+        font-family: 'Bayon';font-size: 24px;
+        margin-top: 2px;
+        background: #528118;
+        box-shadow: 2px 5px 5px #1a2b06;
+    }
+section.about{
+    background-color: #c4e762;
+}
+.containerAbout{
+    width: 50%;
+    margin: auto;
+    padding: 50px 20px;
+    text-align: center;
+}
+    & img{
+         width:200px;
+    }
+section.profile{
+    height: 800px;
+    padding-top: 50px;
+}
+.cardProfile{
+    background-color: #a4c76b;
+    padding: 15px;
+    width:300px;
+    margin: auto;
+    text-align: center;
+    
+}
+img{
+    width:100%;
+}
+.medsos{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height:40px;
+    padding-top:5px;
+}
+.medsos a{
+    text-decoration: none;
+    padding: 10px 10px;
+    font-size: 24px;
+
+}
+.Langkah-Langkah{
+    background-color: #72b158;
+}
+.terimakasih{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4c6e14;
+}
