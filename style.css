@@ -59,9 +59,17 @@ h1.home{
 }
 h3{
       color: #4c6e14;
-       font-family: 'Bayon';font-size: 42px;
+       font-family: 'Bayon';font-size: 50px;
+       margin-top: 1px;
+       margin-bottom: 0px;
+       padding-bottom: 20px;
+}
+h4{
+     color: #4c6e14;
+       font-family: 'Bayon';font-size: 20px;
        margin-top: 0px;
        margin-bottom: 0px;
+
 }
 h1{
       color: #55832b;
@@ -75,8 +83,14 @@ p{
         background: #528118;
         box-shadow: 2px 5px 5px #1a2b06;
     }
+li{
+    color: #2b3b10;
+        font-family: 'Bayon';font-size: 24px;
+        margin-top: 2px;
+}
 section.about{
     background-color: #c4e762;
+    padding-top: 100px;
 }
 .containerAbout{
     width: 50%;
@@ -88,11 +102,13 @@ section.about{
          width:200px;
     }
 section.profile{
-    height: 800px;
-    padding-top: 50px;
+    height: 700px;
+    padding-top: 100px;
+    background-color: #c4e762;
+
 }
 .cardProfile{
-    background-color: #a4c76b;
+    background-color: #70aa39;
     padding: 15px;
     width:300px;
     margin: auto;
@@ -118,9 +134,6 @@ img{
 }
 .Langkah-Langkah{
     background-color: #72b158;
-}
-.terimakasih{
-    font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #4c6e14;
+    padding-top: 100px;
+    padding-bottom: 10px;
 }
